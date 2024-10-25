@@ -7,7 +7,6 @@
 using namespace std;
 
 int main() {
-    // Inicializamos el generador de números aleatorios
     srand(time(0));
 
     // Creamos un vector de números aleatorios
